@@ -1,5 +1,5 @@
 # SpaceGame
-In this project, I developed a game using the Java and object-oriented programming. The fundamental logic of the game involves scoring points by shooting aliens with a spaceship.
+In this project, I developed a game using Java and object-oriented programming. The fundamental logic of the game involves scoring points by shooting aliens with a spaceship.
 
 During the development of the game, I designed a menu. The code related to the menu system is located in the GameScreen class. You can access menu items both in the form of the main menu on the screen and as a menu bar at the top of the screen. The menu includes register and login systems for user information, and a high score system. Additionally, you can obtain information about in-game controls from the help section.
 
